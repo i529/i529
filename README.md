@@ -1,4 +1,4 @@
- <h1 align="center"> Salve Salve! </h1>
+ <h3 align="center"> Salve Salve! </h3>
 
 - 🔭 No momento, estou a procura de novas oportunidades!
 - 🌱 Estou estudando Sistemas para Internet
