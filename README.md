@@ -8,6 +8,8 @@
 
 ![i529 status](https://github-readme-stats.vercel.app/api?username=i529&show_icons=true&theme=transparent)
 
-<!--Snaking game -->
+<!--Snaking game for LuigiGF
+    Git - LuigiGF
+-->
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
