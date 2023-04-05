@@ -7,4 +7,4 @@
 - ⚡ Curiosidades: Jogo valorant de cypher :0, sim, você achou um dos 5 jogadores de cypher no brasil hahahahaha! 
 
 
-
+![i529 status](https://github-readme-stats.vercel.app/api?username=i529&show_icons=true&theme=transparent)
