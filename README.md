@@ -7,3 +7,7 @@
 
 
 ![i529 status](https://github-readme-stats.vercel.app/api?username=i529&show_icons=true&theme=transparent)
+
+<!--Snaking game -->
+
+![Snake animation](https://github.com/i529/i529/blob/output/github-contribution-grid-snake.svg)
