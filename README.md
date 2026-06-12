@@ -6,6 +6,16 @@ Desenvolvedor Front-end com foco em Angular, TypeScript e JavaScript, apaixonado
 
 🚀 Atualmente busco oportunidades como Desenvolvedor Front-end ou Full Stack Júnior.
 
+
+## ⭐ Projetos em Destaque
+
+### Landing Page Hype Club
+
+Aplicação web com Angular e Node.js.
+
+### Landing Page Corporativa ( Disvet )
+SPA desenvolvida com Angular para apresentação institucional com envio de emails( NodeMailer ).
+
 ## 💻 Tecnologias
 
 ### Front-end
